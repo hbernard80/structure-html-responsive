@@ -1,0 +1,22 @@
+/00_DOC/
+
+/public/css/app.css
+/public/css/galerie.css
+/public/css/print.css
+/public/css/tableau.css
+
+/public/js/app.js
+
+__.htaccess
+
+# Node
+/node_modules/
+npm-debug.log*
+.DS_Store
+
+# Build outputs
+dist/
+build/
+
+# Env files
+.env
